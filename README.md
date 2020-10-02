@@ -1,4 +1,5 @@
-Synopsis
+Synopsis An amazing product
+
 
 Create a mineral catalogue on the Django framework using PyCharm. The purpose of this website is to be able to display all minerals from a preconfigured json file and drill into their details one by one. There is even a find random mineral button.
 
